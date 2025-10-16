@@ -5,7 +5,7 @@
 
 ### Sobre mim 
 
-Olá me chamo Moisés....
+Olá me chamo Moisés, tenho 25 anos e sou novo no ramo de programação, sempre em busca de novos aprendizados e novas oportunidades.
 
 <div align="center">
   <img
